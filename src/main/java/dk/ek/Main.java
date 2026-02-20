@@ -14,6 +14,7 @@ public class Main {
             System.out.println("i = " + i);
         }
         //en Git kommentar
+        System.out.println("Det er snart weekend fra GitHub!");
         System.out.println("Det er snart weekend!");
         //fetch, pull, merge, push
     }
