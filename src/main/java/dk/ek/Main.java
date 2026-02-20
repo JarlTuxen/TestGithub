@@ -15,5 +15,6 @@ public class Main {
         }
         //en Git kommentar
         System.out.println("Det er snart weekend!");
+        //fetch, pull, merge, push
     }
 }
